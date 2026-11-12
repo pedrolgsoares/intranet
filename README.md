@@ -2,7 +2,7 @@
 
 > Plataforma web full-stack de comunicação interna, engajamento e gestão do conhecimento corporativo, desenvolvida com **Java 25 (Spring Boot)** e **React 20 (TypeScript)**.
 
-`Java 25` • `Spring Boot 3` • `React 20` • `TypeScript 5` • `PostgreSQL 16` • `Docker` • `License: MIT`
+`Java 25` • `Spring Boot 4.1.2` • `React 20` • `TypeScript 5` • `PostgreSQL 16` • `Docker` • `License: MIT`
 
 > 🚧 **Status do Projeto:** Em desenvolvimento inicial.
 
